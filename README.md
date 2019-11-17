@@ -9,7 +9,7 @@ ou
 yarn
 ```
 
-E para executar o projeto, rodar: ```bash npm start ou yarn start ```
+E para executar o projeto, rodar: ```npm start ou yarn start ```
 
 ## Tecnologias/Ferramentas utilizadas
 
